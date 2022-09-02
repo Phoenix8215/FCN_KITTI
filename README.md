@@ -5,7 +5,7 @@
 ### Install
 
 ```shell
-git clone https://github.com/ultralytics/yolov5  # clone
+git clone https://github.com/Phoenix8215/FCN_KITTI  # clone
 cd 
 pip install -r requirements.txt  # install
 ```
