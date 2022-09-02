@@ -1,5 +1,5 @@
+[中文](https://github.com/Phoenix8215/FCN_KITTI/blob/master/README-zh.md)
 ## Using FCN for road segmentation (KITTI dataset)
-[中文链接](https://github.com/Phoenix8215/FCN_KITTI/blob/master/README-zh.md)
 ![](https://img.shields.io/badge/segmentation-FCN--KITTI-red)
 
 ### Install
