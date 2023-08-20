@@ -18,7 +18,7 @@ pip install -r requirements.txt  # install
 - use`python3 train.py`to train the model，and visual the process of training.
 
 <img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217eee.png" style="zoom:50%;" >
-<img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217efa.png" style="zoom:50%;" >
+![](https://files.downk.cc/item/64e174c7661c6c8e549ef560.jpg)
 <img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217f04.png" style="zoom:50%;" >
 <img src="https://pic.imgdb.cn/item/6311ff2216f2c2beb1217f26.png" style="zoom:50%;" >
 <img src="https://pic.imgdb.cn/item/6311ff2216f2c2beb1217f2f.png" style="zoom:50%;" >
