@@ -1,8 +1,9 @@
 ## 使用FCN模型对KITTI数据集进行道路分割
 
-![](https://img.shields.io/badge/segmentation-FCN--KITTI-red)
-
-![Static Badge](https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch)
+<p>
+    <img src="https://img.shields.io/badge/segmentation-FCN--KITTI-red" style="zoom:50%;" >
+    <img src="https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch" alt="blob">
+</p>
 
 ### 安装
 
