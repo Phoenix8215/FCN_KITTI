@@ -2,6 +2,8 @@
 ## Using FCN for road segmentation (KITTI dataset)
 ![](https://img.shields.io/badge/segmentation-FCN--KITTI-red)
 
+![Static Badge](https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch)
+
 ### Install
 
 ```shell
@@ -23,7 +25,7 @@ pip install -r requirements.txt  # install
 <img src="assets/4.png" style="zoom:50%;" >
 <img src="assets/5.png" style="zoom:50%;" >
 
-- use `python3 test.py`to predict ,outputs are stored in`output`文folder.
+- use `python3 test.py`to predict ,outputs are stored in`output`folder.
 
 ![](assets/6.png)
 

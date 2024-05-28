@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/segmentation-FCN--KITTI-red)
 
+![Static Badge](https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch)
+
 ### 安装
 
 ```shell
