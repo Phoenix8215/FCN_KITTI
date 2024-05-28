@@ -1,8 +1,11 @@
 [中文](https://github.com/Phoenix8215/FCN_KITTI/blob/master/README-zh.md)
 ## Using FCN for road segmentation (KITTI dataset)
-![](https://img.shields.io/badge/segmentation-FCN--KITTI-red)
 
-![Static Badge](https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch)
+
+<p>
+    <img src="https://img.shields.io/badge/segmentation-FCN--KITTI-red" style="zoom:50%;" >
+    <img src="https://img.shields.io/badge/version-1.8-brightgreen?logo=Pytorch&label=Pytorch" alt="blob">
+</p>
 
 ### Install
 
