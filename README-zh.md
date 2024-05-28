@@ -17,15 +17,15 @@ pip install -r requirements.txt  # install
 - 骨干网络采用VGG16，损失函数使用二元交叉熵，训练60个轮次
 - 执行训练操作`python3 train.py`，并将训练过程可视化出来
 
-<img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217eee.png" style="zoom:50%;" >
-<img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217efa.png" style="zoom:50%;" >
-<img src="https://pic.imgdb.cn/item/6311ff2116f2c2beb1217f04.png" style="zoom:50%;" >
-<img src="https://pic.imgdb.cn/item/6311ff2216f2c2beb1217f26.png" style="zoom:50%;" >
-<img src="https://pic.imgdb.cn/item/6311ff2216f2c2beb1217f2f.png" style="zoom:50%;" >
+<img src="assets/1.png" style="zoom:50%;" >
+<img src="assets/2.png" style="zoom:50%;" >
+<img src="assets/3.png" style="zoom:50%;" >
+<img src="assets/4.png" style="zoom:50%;" >
+<img src="assets/5.png" style="zoom:50%;" >
 
 - 对测试集进行预测`python3 test.py`,生成的预测结果存放在`output`文件夹中
 
-![](https://pic.imgdb.cn/item/6311fed316f2c2beb1210144.png)
+![](assets/6.png)
 
 - 生成的权重文件存放在`ckpt`中
 
